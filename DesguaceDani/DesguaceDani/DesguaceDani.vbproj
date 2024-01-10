@@ -93,6 +93,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controladores\API_SQLITE_READER.vb" />
     <Compile Include="Controladores\LoginControlador.vb" />
     <Compile Include="Modelos\Usuario.vb" />
     <Compile Include="Vistas\Main.vb">
