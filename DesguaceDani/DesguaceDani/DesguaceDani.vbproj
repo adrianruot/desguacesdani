@@ -73,6 +73,8 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controladores\LoginControlador.vb" />
+    <Compile Include="Modelos\Usuario.vb" />
     <Compile Include="Vistas\Main.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -119,10 +121,9 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+    <None Include="Resources\vasca-berria.zip" />
+    <None Include="Resources\Vascan.TTF" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controladores\" />
-    <Folder Include="Modelos\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
