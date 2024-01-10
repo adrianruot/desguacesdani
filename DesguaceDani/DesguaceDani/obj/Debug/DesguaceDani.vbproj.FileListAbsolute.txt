@@ -1,0 +1,12 @@
+C:\Users\ADRI\source\repos\DesguaceDani\DesguaceDani\bin\Debug\DesguaceDani.exe.config
+C:\Users\ADRI\source\repos\DesguaceDani\DesguaceDani\bin\Debug\DesguaceDani.exe
+C:\Users\ADRI\source\repos\DesguaceDani\DesguaceDani\bin\Debug\DesguaceDani.pdb
+C:\Users\ADRI\source\repos\DesguaceDani\DesguaceDani\bin\Debug\DesguaceDani.xml
+C:\Users\ADRI\source\repos\DesguaceDani\DesguaceDani\obj\Debug\DesguaceDani.vbproj.AssemblyReference.cache
+C:\Users\ADRI\source\repos\DesguaceDani\DesguaceDani\obj\Debug\DesguaceDani.Resources.resources
+C:\Users\ADRI\source\repos\DesguaceDani\DesguaceDani\obj\Debug\DesguaceDani.vbproj.GenerateResource.cache
+C:\Users\ADRI\source\repos\DesguaceDani\DesguaceDani\obj\Debug\DesguaceDani.vbproj.CoreCompileInputs.cache
+C:\Users\ADRI\source\repos\DesguaceDani\DesguaceDani\obj\Debug\DesguaceDani.exe
+C:\Users\ADRI\source\repos\DesguaceDani\DesguaceDani\obj\Debug\DesguaceDani.xml
+C:\Users\ADRI\source\repos\DesguaceDani\DesguaceDani\obj\Debug\DesguaceDani.pdb
+C:\Users\ADRI\source\repos\DesguaceDani\DesguaceDani\obj\Debug\DesguaceDani.Main.resources
