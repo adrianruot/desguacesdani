@@ -30,6 +30,12 @@ Public Class Main
     End Sub
 
     Private Sub LoginButton_Click(sender As Object, e As EventArgs) Handles LoginButton.Click
-        MsgBox(LoginControlador.IniciarSesion(UsuarioTextField.Text, ContraseniaField.Text))
+        If UsuarioTextField.Text = "" Or ContraseniaField.Text = "" Then
+            MsgBox("No estan escritos todos los formularios")
+        Else
+            MsgBox(LoginControlador.IniciarSesion(UsuarioTextField.Text, ContraseniaField.Text))
+        End If
+
+
     End Sub
 End Class

@@ -22,3 +22,14 @@ C:\Users\8fdam04\Documents\SGE\EjerciciosPythonMapasYListas\desguacesdani\Desgua
 C:\Users\8fdam04\Documents\SGE\EjerciciosPythonMapasYListas\desguacesdani\DesguaceDani\DesguaceDani\obj\Debug\DesguaceDani.exe
 C:\Users\8fdam04\Documents\SGE\EjerciciosPythonMapasYListas\desguacesdani\DesguaceDani\DesguaceDani\obj\Debug\DesguaceDani.xml
 C:\Users\8fdam04\Documents\SGE\EjerciciosPythonMapasYListas\desguacesdani\DesguaceDani\DesguaceDani\obj\Debug\DesguaceDani.pdb
+C:\Users\8fdam04\Documents\SGE\EjerciciosPythonMapasYListas\desguacesdani\DesguaceDani\DesguaceDani\bin\Debug\x86\sqlite3.dll
+C:\Users\8fdam04\Documents\SGE\EjerciciosPythonMapasYListas\desguacesdani\DesguaceDani\DesguaceDani\bin\Debug\x64\sqlite3.dll
+C:\Users\8fdam04\Documents\SGE\EjerciciosPythonMapasYListas\desguacesdani\DesguaceDani\DesguaceDani\bin\Debug\EntityFramework.dll
+C:\Users\8fdam04\Documents\SGE\EjerciciosPythonMapasYListas\desguacesdani\DesguaceDani\DesguaceDani\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\8fdam04\Documents\SGE\EjerciciosPythonMapasYListas\desguacesdani\DesguaceDani\DesguaceDani\bin\Debug\System.Data.SQLite.dll
+C:\Users\8fdam04\Documents\SGE\EjerciciosPythonMapasYListas\desguacesdani\DesguaceDani\DesguaceDani\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\8fdam04\Documents\SGE\EjerciciosPythonMapasYListas\desguacesdani\DesguaceDani\DesguaceDani\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\8fdam04\Documents\SGE\EjerciciosPythonMapasYListas\desguacesdani\DesguaceDani\DesguaceDani\bin\Debug\EntityFramework.xml
+C:\Users\8fdam04\Documents\SGE\EjerciciosPythonMapasYListas\desguacesdani\DesguaceDani\DesguaceDani\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\8fdam04\Documents\SGE\EjerciciosPythonMapasYListas\desguacesdani\DesguaceDani\DesguaceDani\bin\Debug\System.Data.SQLite.xml
+C:\Users\8fdam04\Documents\SGE\EjerciciosPythonMapasYListas\desguacesdani\DesguaceDani\DesguaceDani\obj\Debug\DesguaceDani.vbproj.CopyComplete
